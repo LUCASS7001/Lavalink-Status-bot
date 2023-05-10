@@ -25,3 +25,16 @@
 
 [![Discord](https://media.discordapp.net/attachments/1093122923319009381/1105866770583142501/waves_store_image.png?width=1439&height=258)](https://discord.gg/4tHdFJxPhb)
 
+
+## can i add more then one ? Yes u can 
+
+```js 
+{
+host: "", //your host
+password: "", //youe password
+port: 80, // your part 
+retryDelay: 300000,
+retryAmount: 25,
+identifier: "", //your host
+secure: false, 
+}
