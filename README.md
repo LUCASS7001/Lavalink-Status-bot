@@ -3,7 +3,7 @@
 ## Installation Guide (Windows/VPS/Pterodactyl)
   
 - Make sure you're using at least NodeJS v16 or greater.
-- Git Clone or Download Zip (`git clone https://github.com/LewdHuTao/Lavalink-Status.git`).
+- Git Clone or Download Zip (https://github.com/LUCASS7001/Lavalink-Status-bot.git)
 - Fill [config.js](https://github.com/LewdHuTao/Lavalink-Status/blob/main/src/config.js) file with your Bot Token and Channel Id where you want to send the status.
 - Run `npm install` or `yarn install` in console to install all required packages.
 - Run `node .`, `npm run start` or `yarn start` to start the bot.
