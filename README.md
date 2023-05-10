@@ -22,3 +22,6 @@
 
 ### Support Server Community
 <a href="https://discord.gg/4tHdFJxPhb"><img src="https://discord.com/api/guilds/968913790752141352/widget.png" alt="Waves Store support server"/></a>
+
+[![Discord](https://media.discordapp.net/attachments/1093122923319009381/1105866770583142501/waves_store_image.png?width=1439&height=258)](https://discord.gg/4tHdFJxPhb)
+
