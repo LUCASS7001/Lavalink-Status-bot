@@ -1,0 +1,22 @@
+{
+  "name": "lavalink-status",
+  "version": "1.0.0",
+  "description": "Monitor your lavalink",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/LUCASS7001/Lavalink-Status-bot/issues"
+  },
+  "homepage": "https://github.com/LUCASS7001/Lavalink-Status-bot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.9.0",
+    "erela.js": "^2.4.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "pretty-bytes": "^5.6.0"
+  }
+}
