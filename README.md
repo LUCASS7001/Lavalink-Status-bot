@@ -24,3 +24,4 @@
 [![Waves Store support server](https://discord.com/api/guilds/968913790752141352/widget.png)](https://discord.gg/4tHdFJxPhb)
 
 [![Discord](https://media.discordapp.net/attachments/1093122923319009381/1105866770583142501/waves_store_image.png?width=1439&height=258)](https://discord.gg/4tHdFJxPhb)
+
